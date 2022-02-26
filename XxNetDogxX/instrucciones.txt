@@ -1,7 +1,0 @@
-Ejecuta el comando "chmod 777 permision.sh" para dar los permisos de ejecución al script de los permisos.
-
-Para este programa netdog deberás primero ejecutar "permision.sh" para que de manera automatica edite los permisos.
-
-Dentro de las opciones ejecute el comando "help" para ver el listado de comandos de cada opción.
-
-Si estas en una opción y quieres volver al menu principal, solo tienes que ejecutar el comando "return".
